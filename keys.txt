@@ -1,0 +1,6 @@
+[openai]
+OPENAI_API_KEY = your_key
+
+[azure]
+SPEECH_KEY = your_key
+SPEECH_REGION = your_region
